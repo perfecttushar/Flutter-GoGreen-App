@@ -2,11 +2,11 @@
 # The GoGreen App
 ## Project Overview:
 
-The Chat App project aims to create a user-friendly messaging application with real-time messaging and multimedia sharing. It will be built using Flutter for cross-platform development, enabling seamless experiences on both iOS and Android devices.
+The GoGreen Flutter app enables users to book public transport tickets, generate and validate QR codes, manage daily passes, and view profiles, all while ensuring secure data storage with Firebase and maintaining a minimal modern design. Key features include user authentication, ticket booking, QR code management, profile management, and a clean, intuitive user interface.
 
 ## Project Description:
 
-The Chat App project aims to create a cross-platform messaging application using Flutter, ensuring seamless communication on both iOS and Android devices. It will support real-time messaging, multimedia sharing, and a user-friendly interface. With a focus on data security and user experience, the app seeks to foster meaningful connections between users.
+The GoGreen Flutter app provides a streamlined solution for booking public transport tickets, featuring secure user authentication, ticket booking, QR code generation and validation, daily passes, and profile management. Designed with a minimal modern aesthetic, the app leverages Firebase for robust data storage and seamless user experience.
 
 ## Technologies and Tools:
 
@@ -19,6 +19,8 @@ The Chat App project aims to create a cross-platform messaging application using
 4] VS Code: IDE to write, test, and run the Flutter application.
 
 5] Emulators / Real Devices: Test the app on emulators/simulators and real devices to ensure compatibility.
+
+6] Firebase: To store real-time data to the database.
 
 ## Screenshot
 
