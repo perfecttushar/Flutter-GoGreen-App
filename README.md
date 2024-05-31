@@ -2,7 +2,7 @@
 # The GoGreen App
 ## Project Overview:
 
-The GoGreen Flutter app enables users to book public transport tickets, generate and validate QR codes, manage daily passes, and view profiles, all while ensuring secure data storage with Firebase and maintaining a minimal modern design. Key features include user authentication, ticket booking, QR code management, profile management, and a clean, intuitive user interface.
+The GoGreen Flutter app enables users to register, log in, reset passwords, book tickets, generate and validate QR codes, purchase daily passes, manage profiles, and store booking details using Firebase, all within a minimal modern design.
 
 ## Project Description:
 
